@@ -1,0 +1,18 @@
+Typo Tune
+Dyslexia is a learning disability that makes it difficult to read, despite a person's ability to learn and their normal intelligence. Dyslexia is estimated to affect roughly 1 in 10 people globally, which translates to about 780 million individuals worldwide. In India, research indicates that between 10-15% of children are dyslexic, with studies showing prevalence ranging from 6% to 13.67%. 
+Typo Tune is a python application made to help dyslexic people read. It utilises techniques such as artificial intelligence, text to speech, speech to text, GUI, etc.  The application takes the input from the user in the form of a text or speech, and thereafter simplifies it and displays it in a dyslexia friendly format. The output could also be heard if the user still finds it difficult to read. The following are a few of its features:
+•	Use of dyslexia friendly colours- Throughout the application dyslexia friendly, colour combinations like beige, off white, light blue and black are used.
+•	Dyslexia Friendly Font- Open Dyslexic 3 font is utilised to make the application user friendly 
+•	Simplification – The text entered is simplified through the use of artificial intelligence making reading easier
+•	Recording – The text to be inputted could be recorded as well making the application user friendly
+•	Speaker – The output could be heard as well making the application dyslexia friendly as complex text’s simplification could be heard rather than read also. 
+
+Important Things to Note:
+•	Please ensure that all important libraries are imported
+•	Please ensure that all important fonts are installed
+•	Bart Large CNN model is used for text simplification
+•	Google web speech API is used for speech recognition 
+•	Pyttsk3 is used for text to speech
+•	Tkinter and CustomTkinter is used for GUI
+•	Pyglet is used to import the dyslexia friendly font
+
